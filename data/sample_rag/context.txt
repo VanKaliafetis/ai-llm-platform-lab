@@ -1,0 +1,3 @@
+RFI-104 concerns missing load calculation evidence for the bracket design. The design team owns the open point. Closure requires a signed calculation note and approval from the checker.
+
+A separate cable routing issue has medium risk because the current route clashes with an access panel. The routing owner must update the layout before installation release.

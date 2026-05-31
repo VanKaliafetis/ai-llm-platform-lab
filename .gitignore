@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+.env
+
+*.pyc
+*.pyo
+*.pyd
+
+outputs/
+reports/
+
+.vscode/
+.idea/
+
+.DS_Store
+
+fine_tuning/outputs/

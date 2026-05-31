@@ -1,0 +1,4 @@
+prompt,expected
+Summarise RFI-104: missing load calculation evidence for bracket design. Owner design team. Closure requires signed calculation note.,RFI-104 requires missing load calculation evidence; owner is design team; closure requires signed calculation note.
+Classify this design comment: Cable route clashes with access panel and needs resolution.,action required due to cable route clash with access panel
+Return JSON for open point: supplier drawing revision mismatch; owner procurement; due Friday.,{"issue":"supplier drawing revision mismatch","owner":"procurement","due":"Friday"}
