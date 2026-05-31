@@ -308,12 +308,6 @@ GPU recommended for actual training workloads.
 
 ---
 
-# Suggested CV Line
-
-Built an AI infrastructure platform for benchmarking, evaluating and observing LLM applications, including provider comparison, vector-style RAG evaluation, groundedness scoring, latency/token tracking, SQLite observability workflows, and local LoRA fine-tuning of specialist models.
-
----
-
 # Project Structure
 
 ```text
