@@ -39,11 +39,11 @@ Built using:
 
 # Demo
 
-![Demo](assets/demo/demo.gif)
+![Demo](assets/Demos/demo.gif)
 
 Full video:
 
-[demo.mp4](assets/demo/demo.mp4)
+[demo.mp4](assets/Demos/demo.mp4)
 
 ---
 
