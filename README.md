@@ -39,7 +39,7 @@ Built using:
 
 # Demo
 
-![Demo](assets/Demos/demo.gif)
+![Demo](assets/Demos/Demo.gif)
 
 Full video:
 
